@@ -8,4 +8,6 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 -->
 
 
-# This is Nafourtin's blog, starting on 18 Dec 2021.
+# This is Nafourtin's blog.
+
+Starting on 18 Dec 2021.
