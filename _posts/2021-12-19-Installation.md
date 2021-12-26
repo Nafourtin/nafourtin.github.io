@@ -10,6 +10,42 @@
  
 5. 2021-12-19: Install [JupyterLab, Jupyter Notebook, and Voilà](https://jupyter.org/) follow [instruction](https://jupyter.org/install).
 
+Open Miniforge Prompt:
+(base) c:\>jupyter --version
+Selected Jupyter core packages... 
+
+IPython          : 7.30.1
+
+ipykernel        : 6.6.0
+
+ipywidgets       : not installed
+
+jupyter_client   : 6.1.12
+
+jupyter_core     : 4.9.1
+
+jupyter_server   : 1.13.1
+
+jupyterlab       : 3.2.5
+
+nbclient         : 0.5.9
+
+nbconvert        : 6.3.0
+
+nbformat         : 5.1.3
+
+notebook         : 6.4.6
+
+qtconsole        : not installed
+
+traitlets        : 5.1.1
+
+(base) c:\>voila --version
+
+0.3.0
+
+
+
 6. 2021-12-21: Started to watch Jeremy's [Lesson 1](https://course.fast.ai/videos/?lesson=1). Register on [fastai Forumns](https://forums.fast.ai/).
 
 7. 2021-12-26: 
