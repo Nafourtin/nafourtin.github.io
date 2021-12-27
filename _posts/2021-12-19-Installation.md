@@ -54,7 +54,7 @@ traitlets        : 5.1.1
      or http://127.0.0.1:8888/?token=1e295da806ad98bb97f8d349eb4c4807438547be87cc92f7
 -->
 
-8. 
+8. 2021-12-26. Read [how-to-use-jupyter-notebooks](https://www.codecademy.com/article/how-to-use-jupyter-notebooks).
 
 9. Found Jeremy's [Setup Help](https://forums.fast.ai/t/setup-help/65529).
 
