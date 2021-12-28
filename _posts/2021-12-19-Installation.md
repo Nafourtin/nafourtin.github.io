@@ -56,9 +56,13 @@ traitlets        : 5.1.1
 
 8. 2021-12-26. Read [how-to-use-jupyter-notebooks](https://www.codecademy.com/article/how-to-use-jupyter-notebooks).
 
-9. 2021-12-27. Found Jeremy's [Setup Help](https://forums.fast.ai/t/setup-help/65529), in particular, the thread on [Google Colab](https://forums.fast.ai/t/platform-colab-free-10-month-pro/65525) [](https://course.fast.ai/start_colab.html). Read [Using Colab]https://course.fast.ai/start_colab.html.
+9. 2021-12-27. Found Jeremy's [Setup Help](https://forums.fast.ai/t/setup-help/65529), in particular, the thread on [Google Colab](https://forums.fast.ai/t/platform-colab-free-10-month-pro/65525).
 
+10. 2021-12-28. Read [Using Colab]https://course.fast.ai/start_colab.html.
 
-Platform: Paperspace [Instructions](https://forums.fast.ai/t/platform-paperspace-free-paid-options/65515/14)
+11. 2021-12-28. Read [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb).
 
+[Create a new Colab notebook](http://colab.research.google.com/#create=true)
+
+ 
 Platform: Google Colab [Instructions](https://forums.fast.ai/t/platform-colab-free-10-month-pro/65525).
