@@ -6,3 +6,4 @@
 
 3. 2022-01-04: Resumed watching Jeremy's [Lesson 1](https://course.fast.ai/videos/?lesson=1). 
 
+4. 2022-01-05: Learn [Jupyter Notebook 101](https://colab.research.google.com/github/fastai/fastbook/blob/master/app_jupyter.ipynb). 
