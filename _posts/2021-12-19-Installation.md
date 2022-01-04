@@ -62,7 +62,3 @@ traitlets        : 5.1.1
 
 11. 2021-12-28. Read [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb).
 
-[Create a new Colab notebook](http://colab.research.google.com/#create=true)
-
- 
-Platform: Google Colab [Instructions](https://forums.fast.ai/t/platform-colab-free-10-month-pro/65525).
