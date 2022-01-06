@@ -62,3 +62,4 @@ traitlets        : 5.1.1
 
 11. 2021-12-28. Read [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb).
 
+12. 2022-01-06. Install [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows).
