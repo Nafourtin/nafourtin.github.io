@@ -6,8 +6,12 @@
 
 3. 2022-01-04: Resumed watching Jeremy's [Lesson 1](https://course.fast.ai/videos/?lesson=1). 
 
-4. Next to learn: [Jupyter Notebook 101](https://colab.research.google.com/github/fastai/fastbook/blob/master/app_jupyter.ipynb). 
+4. Visit the [Oxford-IIIT Pet Dataset](https://oreil.ly/c_Bv), or [here](https://www.robots.ox.ac.uk/~vgg/data/pets/).
 
-5. Next to learn: [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem). 
 
-6. Next to learn: [Stochastic Gradient Descent (SGD)](https://scikit-learn.org/stable/modules/sgd.html)
+
+5. Next to learn: [Jupyter Notebook 101](https://colab.research.google.com/github/fastai/fastbook/blob/master/app_jupyter.ipynb). 
+
+6. Next to learn: [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem). 
+
+7. Next to learn: [Stochastic Gradient Descent (SGD)](https://scikit-learn.org/stable/modules/sgd.html)
