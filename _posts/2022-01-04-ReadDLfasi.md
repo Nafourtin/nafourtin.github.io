@@ -6,7 +6,7 @@
 
 3. 2022-01-04: Resumed watching Jeremy's [Lesson 1](https://course.fast.ai/videos/?lesson=1). 
 
-4. Visit the [Oxford-IIIT Pet Dataset](https://oreil.ly/c_Bv), or [here](https://www.robots.ox.ac.uk/~vgg/data/pets/).
+4. Visit the [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/).
 
 
 
