@@ -13,3 +13,5 @@
 2022-01-12: Visit [Stack Overflow](https://stackoverflow.com/questions/tagged/python)
 
 2022-01-12: Watch [How to Get Started with Github - Beginner Tutorial](https://www.youtube.com/watch?v=73I5dRucCd)
+
+2022-01-22: Visit [Juyeter Notebook Viewer](https://nbviewer.org/)
