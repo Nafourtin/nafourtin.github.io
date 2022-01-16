@@ -65,7 +65,9 @@ traitlets        : 5.1.1
 12. 2022-01-06. Install [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows).
 
 13. 2022-01-15. Install [Anaconda Individual Edition](https://www.anaconda.com/products/individual).
+  
+   conda update -n base -c defaults conda
+ 
+   conda install -c conda-forge jupyterlab
 
-conda install -c conda-forge jupyterlab
-
-conda install -c anaconda ipython
+   conda install -c anaconda ipython
