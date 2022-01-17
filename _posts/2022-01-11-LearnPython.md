@@ -4,7 +4,7 @@
 
 2022-01-11: Read article [Learning Python: From Zero to Hero](https://www.iamtk.co/learning-python-from-zero-to-hero)
 
-2022-01-12: Go through [Real Python](https://realpython.com/start-here/)
+2022-01-12: Take a look at [Real Python](https://realpython.com/start-here/)
 
 2022-01-12: Go through [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
